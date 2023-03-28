@@ -63,7 +63,7 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
-  flex: 30%;
+  flex: 50%;
   background-color: #000000;
   color: white;
   padding: 100px;
@@ -71,7 +71,7 @@ body {
 
 /* Main column */
 .main {   
-  flex: 70%;
+  flex: 50%;
   background-color: white;
   padding: 20px;
 }
